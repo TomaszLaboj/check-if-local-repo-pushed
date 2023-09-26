@@ -1,7 +1,7 @@
 1#!/bin/bash
 
 # Path to the folder containing all git repos
-repo_folder="/home/2306-13-tl/Developer/academy/training"
+repo_folder="/path/to/your/directory"
 
 #list all subdirectories
 
